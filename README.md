@@ -1,7 +1,7 @@
 # Instructional Design Example
 Welcome!
 
-Here you will find an example instructional design project created using Articulate's Rise 360 authoring software.
+Here you will find an example instructional design project created using [Articulate's Rise 360 authoring software](https://www.articulate.com/360/rise/).
 
 To do this yourself, you will need to:
 
