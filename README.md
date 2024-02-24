@@ -5,7 +5,7 @@ Here you will find an example instructional design project created using [Articu
 
 To do this yourself, you will need to:
 
-1. Download the zipped file from Rise 360 (use the "share" button in edit mode)
+1. Download the zipped file from Rise 360 (use the "publish" button in edit mode and select "web")
 2. Unzip the file (this creates a folder called "content")
 3. Create a new repository on your Github account
 4. Upload everything inside the "content" folder to the new repository
