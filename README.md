@@ -10,3 +10,9 @@ To do this yourself, you will need to:
 3. Create a new repository on your Github account
 4. Upload everything inside the "content" folder to the new repository
 5. Deploy to [Github Pages](https://pages.github.com/)
+
+To update your course:
+
+1. Make any necessary revisions to your course on Rise 360
+2. Delete everything in your Github repositiory
+3. Follow instructions 1 - 5 in the section above
