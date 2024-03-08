@@ -14,7 +14,7 @@ To do this yourself, you will need to:
 To update your course:
 
 1. Make any necessary revisions to your course on Rise 360
-2. Delete everything in your Github repositiory
+2. Delete everything in your Github repositiory except for your README file
 3. Follow instructions 1 - 5 in the section above
 
 Please note that if you no longer have access to Rise 360, you cannot update your course!
